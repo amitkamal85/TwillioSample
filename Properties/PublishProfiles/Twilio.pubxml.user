@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Ishan\Desktop\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Default.aspx">
+      <publishTime>06/26/2015 17:55:02</publishTime>
+    </File>
+    <File Include="bin/Default.aspx.cs">
+      <publishTime>06/26/2015 17:43:21</publishTime>
+    </File>
+    <File Include="bin/Default.aspx.designer.cs">
+      <publishTime>06/26/2015 17:14:05</publishTime>
+    </File>
+    <File Include="bin/ForwardCall.aspx">
+      <publishTime>06/26/2015 17:17:19</publishTime>
+    </File>
+    <File Include="bin/ForwardCall.aspx.cs">
+      <publishTime>06/26/2015 17:41:45</publishTime>
+    </File>
+    <File Include="bin/ForwardCall.aspx.designer.cs">
+      <publishTime>06/26/2015 17:08:57</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>06/26/2015 17:05:53</publishTime>
+    </File>
+    <File Include="bin/Twilio.Api.dll">
+      <publishTime>06/26/2015 17:05:53</publishTime>
+    </File>
+    <File Include="bin/Twilio.dll">
+      <publishTime>06/30/2015 19:21:37</publishTime>
+    </File>
+    <File Include="CallTwilio.txt">
+      <publishTime>06/26/2015 17:45:46</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/26/2015 18:12:24</publishTime>
+    </File>
+    <File Include="file.xml">
+      <publishTime>06/30/2015 19:17:55</publishTime>
+    </File>
+    <File Include="ForwardCall.aspx">
+      <publishTime>06/30/2015 18:59:13</publishTime>
+    </File>
+    <File Include="jquery-1.10.2.js">
+      <publishTime>06/30/2015 16:05:37</publishTime>
+    </File>
+    <File Include="jquery-1.10.2.min.js">
+      <publishTime>06/30/2015 16:05:37</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>06/30/2015 18:55:59</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/26/2015 17:05:55</publishTime>
+    </File>
+    <File Include="script.js">
+      <publishTime>06/30/2015 19:19:30</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>06/30/2015 17:32:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/30/2015 18:05:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

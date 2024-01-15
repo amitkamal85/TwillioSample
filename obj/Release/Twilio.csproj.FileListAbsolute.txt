@@ -1,0 +1,17 @@
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\bin\Twilio.dll.config
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\bin\Twilio.dll
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\bin\Twilio.pdb
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\bin\RestSharp.dll
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\bin\Twilio.Api.dll
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\bin\RestSharp.xml
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\bin\Twilio.Api.pdb
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\bin\Twilio.Api.xml
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\obj\Release\Twilio.csprojResolveAssemblyReference.cache
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\obj\Release\Twilio.dll
+D:\New_Format_Way\Twillio\Working\Code\26-June\NewFolder\Twilio\Twilio\obj\Release\Twilio.pdb
+F:\SumitProject\callforwarding\bin\Twilio.dll.config
+F:\SumitProject\callforwarding\bin\Twilio.dll
+F:\SumitProject\callforwarding\bin\Twilio.pdb
+F:\SumitProject\callforwarding\obj\Release\Twilio.csprojResolveAssemblyReference.cache
+F:\SumitProject\callforwarding\obj\Release\Twilio.dll
+F:\SumitProject\callforwarding\obj\Release\Twilio.pdb
